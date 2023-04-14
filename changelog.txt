@@ -1,0 +1,39 @@
+Hostco v1.2.6
+- New added: Homepage 7
+
+Hostco v1.2.5
+- New added: Homepage Dark 3
+- New added: page "404.html"
+- New added: page "404-dark.html"
+- New added: countdown timer
+
+Hostco v1.2.4
+- New added: cookie bar (for all homepages)
+- New added: Badge page (bagde.html)
+
+Hostco v1.2.3
+- New added: Homepage Dark 2
+
+Hostco v1.2.2
+- New added: Homepage 6
+
+Hostco v1.2.1
+- New added: News Standard Right Sidebar
+- New added: News Standard Left Sidebar
+- New added: News Standard No Sidebar
+- New added: News Grid Right Sidebar
+- New added: News Grid Left Sidebar
+
+Hostco v1.2
+- New added: Hostco dark version (homepage-dark-1.html)
+- fixes for testimonial carousel not show
+
+Hostco v1.1.2
+- Clicking switch now also changes action button on pricing table
+
+Hostco v1.1.1
+- new added "domain-top-level.html"
+
+Hostco v1.1
+- new added page "domain-transfer.html"
+- new added page "domain-pricing.html"
